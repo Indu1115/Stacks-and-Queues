@@ -17,3 +17,9 @@
   <li>change(): It changes the element at the given position.</li>
   <li>display(): It prints all the elements available in the stack</li>
 </ul>
+<h3>Applications of Stacks</h3>
+<ul>
+  <li>we can use stacks in reversing a string</li>
+  <li>we can use this in expression evaluation and expression conversion</li>
+  <li>we can use stacks in undo and redo operations in web browser</li>
+</ul>
