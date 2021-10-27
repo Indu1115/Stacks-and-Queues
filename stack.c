@@ -5,7 +5,7 @@ int stack[N];
 int top=-1
 void push();
 void pop();
-vpid peek();
+void peek();
 void display();
 void main()
 {
